@@ -1,4 +1,3 @@
-!pip install groq python-dotenv aiogram
 import asyncio
 import os
 import logging
